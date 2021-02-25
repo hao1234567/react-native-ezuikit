@@ -1,6 +1,9 @@
 # react-native-ezuikit
 
 关键词：  
+监控
+实时监控  
+视频监控  
 莹石  
 萤石UIKit  
 ezuikit  
